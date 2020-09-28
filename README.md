@@ -5,6 +5,8 @@ Restitution des travaux pour le cours Kit pour la data science du Mastère Spéc
 Télécom Paris
 
  ** Session 1 ** : Setup, environnement de dev, bases de Python (17/09)
- ** Session 2** : Introduction aux librairies Numpy et Pandas. 
+ 
+ 
+ ** Session 2** : Introduction aux librairies Numpy et Pandas (24/09)
 
   Travaux à faire: Exercice + Projet maison n°1 et n°2
