@@ -8,5 +8,7 @@ Télécom Paris
  
  
  ** Session 2** : Introduction aux librairies Numpy et Pandas (24/09)
+ 
+ ** Session 3** : Suite Pandas / Numpy + Introduction API / XML (1/10)
 
-  Travaux à faire: Exercice + Projet maison n°1 et n°2
+  Travaux à faire: Projet maison 
